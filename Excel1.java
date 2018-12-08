@@ -14,6 +14,7 @@ public class Excel1{
             i--;
         }
         return result;
+            
     }
     
     public static String titleToString(int N){
